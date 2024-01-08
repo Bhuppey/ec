@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>shirts &#8211; PD- Ecommerce.com</title>
+	<atom:link href="https://bhuppey.github.io/ec/product-category/women/shirts-women/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bhuppey.github.io/ec</link>
+	<description></description>
+	<lastBuildDate>Sun, 07 Jan 2024 22:24:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://bhuppey.github.io/ec/wp-content/uploads/2024/01/images-6.jpg</url>
+	<title>shirts &#8211; PD- Ecommerce.com</title>
+	<link>https://bhuppey.github.io/ec</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Girls Tee Shirts</title>
+		<link>https://bhuppey.github.io/ec/product/girls-tee-shirts/</link>
+					<comments>https://bhuppey.github.io/ec/product/girls-tee-shirts/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 07 Jan 2024 22:24:39 +0000</pubDate>
+				<guid isPermaLink="false">https://bhuppey.github.io/ec/?post_type=product#038;p=203</guid>
+
+					<description><![CDATA[<ul>
+ 	<li class="returns"><strong>Easy Returns &#38; Replacement</strong><i class="icon_info"></i></li>
+ 	<li class="payOptions"><strong>Payment Options</strong>: (Credit Card , Debit Card , Net Banking , Wallets , COD</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>If you have been looking for a tee that allows your kid to have a comfortable touch against his skin, then this one from BebeComfort is going to be the best choice. It comes with a printed pattern which lends it a distinct appeal. Also, it is made of a premium quality cotton which will ensure a hassle free maintenance. Made from the finest cotton yarn, our exquisite products offer your baby’s skin extra comfort and a velvety touch. Shop for latest trendy cotton t shirts for boys from BebeComfort at shopclues.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bhuppey.github.io/ec/product/girls-tee-shirts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

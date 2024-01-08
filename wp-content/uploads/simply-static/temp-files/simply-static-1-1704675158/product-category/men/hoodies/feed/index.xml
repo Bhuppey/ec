@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hoodies &#8211; PD- Ecommerce.com</title>
+	<atom:link href="https://bhuppey.github.io/ec/product-category/men/hoodies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bhuppey.github.io/ec</link>
+	<description></description>
+	<lastBuildDate>Sun, 07 Jan 2024 22:22:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://bhuppey.github.io/ec/wp-content/uploads/2024/01/images-6.jpg</url>
+	<title>Hoodies &#8211; PD- Ecommerce.com</title>
+	<link>https://bhuppey.github.io/ec</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trendy Men Polyester Printed Hoodies</title>
+		<link>https://bhuppey.github.io/ec/product/trendy-men-polyester-printed-hoodies/</link>
+					<comments>https://bhuppey.github.io/ec/product/trendy-men-polyester-printed-hoodies/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 07 Jan 2024 22:22:11 +0000</pubDate>
+				<guid isPermaLink="false">https://bhuppey.github.io/ec/?post_type=product#038;p=202</guid>
+
+					<description><![CDATA[<ul>
+ 	<li><strong>Prints &#38; Patterns</strong> : Printed</li>
+ 	<li><strong>Sleeve Length</strong> : Long Sleeve</li>
+ 	<li><strong>Color Family</strong> : Multicolor</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Manufactured from polyster fabric, this Hoodie is very smooth and soft making it comfortable to wear during all seasons. They are extremely comfortable and can be worn while lounging around at home, chilling with friends, or sleeping without compromising on your style. This fabric is durable, odourless and passed through anti fading treatment which ensures the hoodie color to be intact even after repeated washes.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bhuppey.github.io/ec/product/trendy-men-polyester-printed-hoodies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
